@@ -4925,7 +4925,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　HENOHENOMOHEJI
 	U+E5A4
 　HEMAMUSHO NYUDO
-##	Kata letters with semi-voiced sound mark
+##	Kana letters with semi-voiced sound mark
 	U+E5A5
 　HIRAGANA LETTER TA WITH SEMI-VOICED SOUND MARK
 　　https://bibdb.ninjal.ac.jp/SJL/getpdf.php?number=0800010290
