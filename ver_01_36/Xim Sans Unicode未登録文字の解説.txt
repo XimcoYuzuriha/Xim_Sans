@@ -8203,8 +8203,6 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　http://www.unicode.org/L2/L2016/16125-n4726-medieval-punct.pdf
 　　•F1E5 in nishiki-teki font
 ##	Miscellaneous punctuations
-	U+E9BF
-　※※典拠不明
 	U+E9C0
 　PHONOTYPIC QUESTION MARK
 　　http://www.pentzlin.com/EPA_Proposal_Draft1.pdf
@@ -8602,6 +8600,9 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　FLAG OF CALCORAES
 	U+EA3A
 　FLAG OF KLINGON
+	U+EA3B
+　FLAG WITH QUESTION MARK
+　　•unknown nation or language
 
 #	Vexillology Symbols
 ##	Flag information symbols
@@ -15806,6 +15807,15 @@ representing a chord
 	U+F3C6
 　FLAG OF MINNESOTA
 　　•cannot be represented by sequence of regional indicator symbols
+	U+F3C7
+　FLAG OF MISSISSIPPI
+　　•cannot be represented by sequence of regional indicator symbols
+	U+F3C8
+　FLAG OF MISSOURI
+　　•cannot be represented by sequence of regional indicator symbols
+	U+F3CE
+　FLAG OF NEW MEXICO
+　　•cannot be represented by sequence of regional indicator symbols
 	U+F3DA
 　FLAG OF TEXAS
 　　•cannot be represented by sequence of regional indicator symbols
@@ -17270,6 +17280,7 @@ https://twitter.com/oka_iu_tcan/status/727771470642958338?s=20
 　　→ 0061 a
 　　→ 3303 ㌃
 　　→ 21AB8 𡪸
+　　→ 2CABF 𬪿
 	U+F741
 　CJK UNIFIED IDEOGRAPH PRIVATE-F741
 　　→ 65AF 斯
@@ -17278,6 +17289,7 @@ https://twitter.com/oka_iu_tcan/status/727771470642958338?s=20
 　　•hectare
 　　→ 3336 ㌶
 　　→ 33CA ㏊
+　　→ 2B877 𫡷
 	U+F743
 　CJK UNIFIED IDEOGRAPH PRIVATE-F743
 　　→ 8266 艦
