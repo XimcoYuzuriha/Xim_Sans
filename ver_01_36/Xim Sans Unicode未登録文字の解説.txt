@@ -7767,6 +7767,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E932
 　LATIN CAPITAL LETTER RAMS HORN
 　　https://unicode.org/L2/L2021/21205-capital-rams-horn.pdf
+　　https://unicode.org/L2/L2022/22045-capital-rams-horn.pdf
 　　•lowercase is 0264 ɤ
 　　→ 0194 Ɣ latin capital letter gamma
 	U+E933
@@ -14484,19 +14485,10 @@ representing a chord
 	U+F190
 　CYRILLIC ITALIC CAPITAL LETTER YA
 ##	Modifier letters
-	U+F191
-　MODIFIER LETTER CYRILLIC SMALL STRAIGHT U WITH STROKE
-　　https://unicode.org/L2/L2022/22010-cyrillic-mod.pdf
-　　≈ <super> 04B1 ұ
 	U+F192
 　MODIFIER LETTER CYRILLIC SMALL BULGARIAN D
 　　https://unicode.org/L2/L2022/22010-cyrillic-mod.pdf
 　　→ 1E034 𞀴 modifier letter cyrillic small d
-##	Combining letter
-◌	U+F193
-　COMBINING CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
-　　https://unicode.org/L2/L2022/22010-cyrillic-mod.pdf
-　　→ 0456 і
 ##	Small italic letters
 	U+F1A0
 　CYRILLIC ITALIC SMALL LETTER A
@@ -14787,21 +14779,6 @@ representing a chord
 
 
 #	Astronomical and Astrological Symbols
-##	Astrological symbols
-	U+F270
-　LOT OF FORTUNE
-　　https://unicode.org/L2/L2022/22005-fortune-eclipse.pdf
-　　→ 2295 ⊕ circled plus
-　　→ 2297 ⊗ circled times
-　　→ 1F728 🜨 alchemical symbol for verdigris
-	U+F271
-　OCCULTATION
-　　https://unicode.org/L2/L2022/22005-fortune-eclipse.pdf
-　　→ 260C ☌ conjunction
-	U+F272
-　LUNAR ECLIPSE
-　　https://unicode.org/L2/L2022/22005-fortune-eclipse.pdf
-　　→ 260D ☍ opposition
 ##	Miscellaneous astronomical symbols
 	U+F27D
 　CHARIKLO
@@ -14813,27 +14790,14 @@ representing a chord
 　HYLONOME
 　　https://unicode.org/L2/L2021/21225-chiron-comment.pdf
 ##	Symbols for dwarf-planets
-	U+F280
-　HAUMEA
-　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
-	U+F281
-　MAKEMAKE
-　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
 	U+F282
 　MAKEMAKE FORM TWO
 　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
-	U+F283
-　GONGGONG
-　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
-	U+F284
-　QUAOAR
-　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
-	U+F285
-　ORCUS
-　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
+　　→ 1F77C 🝼 makemake
 	U+F286
 　ORCUS FORM TWO
 　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
+　　→ 1F77F 🝿 orcus
 	U+F287
 　VARUNA
 　　https://unicode.org/L2/L2021/21224-dwarf-planet-syms.pdf
