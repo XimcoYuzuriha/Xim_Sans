@@ -2772,7 +2772,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　DALTON ATOMIC SYMBOL HYDROGEN
 　　https://www.alchemywebsite.com/dalton_s.html
 　　•H
-　　•other daton atomic symbols are ⒾⓏⒸⓁⓈⓅ
+　　•other dalton atomic symbols are ⒾⓏⒸⓁⓈⓅ
 	U+E321
 　DALTON ATOMIC SYMBOL BERYLLIUM
 　　https://www.alchemywebsite.com/dalton_s.html
