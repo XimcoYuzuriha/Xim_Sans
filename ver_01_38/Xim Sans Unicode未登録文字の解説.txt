@@ -5593,11 +5593,13 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E6A6
 　CJK UNIFIED IDEOGRAPH PRIVATE-E6A6
 　　 http://journal.vrsj.org/10-4/s18-19.pdf
+　　 ≡ 5FC4忄 5B9F実 (忄実)
 　　•represents "virtual"
 	U+E6A7
 　CJK UNIFIED IDEOGRAPH PRIVATE-E6A7
 　　 http://journal.vrsj.org/10-4/s18-19.pdf
 　　•represents "virtual"
+　　 ≡ 5FC4忄 5BE6實 (忄實)
 　　•simplified form is E6A6 
 	U+E6A8
 　CJK UNIFIED IDEOGRAPH PRIVATE-E6A8
