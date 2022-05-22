@@ -13283,196 +13283,196 @@ representing a chord
 　　https://ziphil.com/conlang/course/27.html
 　　•transcripted as '"'
 
-#	Calcoradish Ambeladian
+#	Calcoradish Ambedian
 ##	Letters
 	U+F040
-　CALCORADISH AMBELADIAN AMBELA
+　CALCORADISH AMBEDIAN AMBELA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F041
-　CALCORADISH AMBELADIAN AEIZA
+　CALCORADISH AMBEDIAN AEIZA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ɛ]
 　　•transcripted as 'æ'
 	U+F042
-　CALCORADISH AMBELADIAN DIAN
+　CALCORADISH AMBEDIAN DIAN
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F043
-　CALCORADISH AMBELADIAN LASSE
+　CALCORADISH AMBEDIAN LASSE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F044
-　CALCORADISH AMBELADIAN KADHELA
+　CALCORADISH AMBEDIAN KADHELA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F045
-　CALCORADISH AMBELADIAN VETTSE
+　CALCORADISH AMBEDIAN VETTSE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F046
-　CALCORADISH AMBELADIAN UNES
+　CALCORADISH AMBEDIAN UNES
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F047
-　CALCORADISH AMBELADIAN TADEL
+　CALCORADISH AMBEDIAN TADEL
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F048
-　CALCORADISH AMBELADIAN TSAETE
+　CALCORADISH AMBEDIAN TSAETE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [t͡s]
 　　•transcripted as 'ţ'
 	U+F049
-　CALCORADISH AMBELADIAN NOEZE
+　CALCORADISH AMBEDIAN NOEZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F04A
-　CALCORADISH AMBELADIAN ENTSE
+　CALCORADISH AMBEDIAN ENTSE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F04B
-　CALCORADISH AMBELADIAN SAETE
+　CALCORADISH AMBEDIAN SAETE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F04C
-　CALCORADISH AMBELADIAN XELA
+　CALCORADISH AMBEDIAN XELA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [x]
 　　•transcripted as 'ç'
 	U+F04D
-　CALCORADISH AMBELADIAN IMPRA
+　CALCORADISH AMBEDIAN IMPRA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F04E
-　CALCORADISH AMBELADIAN ZENES
+　CALCORADISH AMBEDIAN ZENES
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F04F
-　CALCORADISH AMBELADIAN GAZE
+　CALCORADISH AMBEDIAN GAZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F050
-　CALCORADISH AMBELADIAN THAEZE
+　CALCORADISH AMBEDIAN THAEZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [θ]
 　　•transcripted as 'þ'
 	U+F051
-　CALCORADISH AMBELADIAN THAEDULA
+　CALCORADISH AMBEDIAN THAEDULA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ð]
 　　•transcripted as 'ð'
 	U+F052
-　CALCORADISH AMBELADIAN RAMPELA
+　CALCORADISH AMBEDIAN RAMPELA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F053
-　CALCORADISH AMBELADIAN YZE
+　CALCORADISH AMBEDIAN YZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [y]
 　　•transcripted as 'y'
 	U+F054
-　CALCORADISH AMBELADIAN GHANEL
+　CALCORADISH AMBEDIAN GHANEL
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ɣ]
 　　•transcripted as 'ğ'
 	U+F055
-　CALCORADISH AMBELADIAN HAEBE
+　CALCORADISH AMBEDIAN HAEBE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F056
-　CALCORADISH AMBELADIAN MEFES
+　CALCORADISH AMBEDIAN MEFES
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F057
-　CALCORADISH AMBELADIAN ODHEL
+　CALCORADISH AMBEDIAN ODHEL
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F058
-　CALCORADISH AMBELADIAN OELA
+　CALCORADISH AMBEDIAN OELA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [œ]
 　　•transcripted as 'ø'
 	U+F059
-　CALCORADISH AMBELADIAN FROZE
+　CALCORADISH AMBEDIAN FROZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F05A
-　CALCORADISH AMBELADIAN BEL
+　CALCORADISH AMBEDIAN BEL
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F05B
-　CALCORADISH AMBELADIAN PYZE
+　CALCORADISH AMBEDIAN PYZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 	U+F05C
-　CALCORADISH AMBELADIAN VAODE
+　CALCORADISH AMBEDIAN VAODE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ɔ]
 　　•transcripted as 'å'; long vowel is transcripted as 'â'
 	U+F05D
-　CALCORADISH AMBELADIAN JOZE
+　CALCORADISH AMBEDIAN JOZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [j]
 　　•transcripted as 'j'
 	U+F05E
-　CALCORADISH AMBELADIAN UTTSE
+　CALCORADISH AMBEDIAN UTTSE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [w]
 　　•transcripted as 'w'
 	U+F05F
-　CALCORADISH AMBELADIAN YIZE
+　CALCORADISH AMBEDIAN YIZE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ɥ]
 　　•transcripted as 'y̌'
 	U+F060
-　CALCORADISH AMBELADIAN SHAEBE
+　CALCORADISH AMBEDIAN SHAEBE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ʃ]
 　　•transcripted as 'š'
 	U+F061
-　CALCORADISH AMBELADIAN ZHANEM
+　CALCORADISH AMBEDIAN ZHANEM
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•pronounced as [ʒ]
 　　•transcripted as 'ž'
 	U+F062
-　CALCORADISH AMBELADIAN PRASTSAETE
+　CALCORADISH AMBEDIAN PRASTSAETE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= chaete
 　　•pronounced as [t͡ʃ]
 　　•transcripted as 'č'
 ##	Punctuations
 	U+F063
-　CALCORADISH AMBELADIAN FULL STOP
+　CALCORADISH AMBEDIAN FULL STOP
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= tsenxox
 	U+F064
-　CALCORADISH AMBELADIAN COMMA
+　CALCORADISH AMBEDIAN COMMA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= telpe
 	U+F065
-　CALCORADISH AMBELADIAN LEFT QUOTATION MARK
+　CALCORADISH AMBEDIAN LEFT QUOTATION MARK
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= darxodula
 	U+F066
-　CALCORADISH AMBELADIAN RIGHT QUOTATION MARK
+　CALCORADISH AMBEDIAN RIGHT QUOTATION MARK
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= darxodula
 	U+F067
-　CALCORADISH AMBELADIAN QUESTION MARK
+　CALCORADISH AMBEDIAN QUESTION MARK
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= karmex
 	U+F068
-　CALCORADISH AMBELADIAN EXCLAMATION MARK
+　CALCORADISH AMBEDIAN EXCLAMATION MARK
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= tuvia
 	U+F069
-　CALCORADISH AMBELADIAN HYPHEN
+　CALCORADISH AMBEDIAN HYPHEN
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 ##	Combining diacritical marks
 ◌	U+F06A
-　CALCORADISH AMBELADIAN COMBINING TSEMPE
+　CALCORADISH AMBEDIAN COMBINING TSEMPE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•represents long vowels combining on right upper corner of vowel letters
 　　•transcripted as acute accent
 ◌	U+F06B
-　CALCORADISH AMBELADIAN COMBINING DOT BELOW
+　CALCORADISH AMBEDIAN COMBINING DOT BELOW
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= tesreg, tsennef
 ◌	U+F06C
-　CALCORADISH AMBELADIAN COMBINING DOT ABOVE
+　CALCORADISH AMBEDIAN COMBINING DOT ABOVE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　= tesreg
 ◌	U+F06D
-　CALCORADISH AMBELADIAN COMBINING PENDUNE
+　CALCORADISH AMBEDIAN COMBINING PENDUNE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 　　•F049 F06D  is transcripted as 'ň' and pronounced as [ɲ]
 　　•F043 F06D  is transcripted as 'ł' and pronounced as [ʎ]
 ◌	U+F06E
-　CALCORADISH AMBELADIAN COMBINING MENIFA
+　CALCORADISH AMBEDIAN COMBINING MENIFA
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 ◌	U+F06F
-　CALCORADISH AMBELADIAN COMBINING DUZEVNADE
+　CALCORADISH AMBEDIAN COMBINING DUZEVNADE
 　　https://drive.google.com/file/d/1EvIa4s86F1JG3AGAqWT04KeH9A6CDm2A/view
 
 #	Tamga
