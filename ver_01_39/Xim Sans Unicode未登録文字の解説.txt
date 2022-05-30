@@ -7774,6 +7774,12 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　https://unicode.org/L2/L2021/21231-african-ref-alphabet.pdf
 　　•lowercase is 0263 ɣ
 　　→ 0194 Ɣ latin capital letter gamma
+##	Extension for Turkish language
+	U+E939
+　LATIN SMALL LIGATURE VE
+　　https://unicode.org/L2/L2022/22106-latin-small-lig-ve.pdf
+　　•used for Turkish word "ve"; which means "and"
+　　→ 0026 &
 ##	Latin extension for legacy Malayalam
 	U+E93F
 　LATIN SMALL LETTER Z WITH LEFT HOOK.
