@@ -8218,13 +8218,14 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4079.pdf
 　　https://unicode.org/L2/L2011/11040-epa-proposal.pdf
 　　•F9F1 in nishiki-teki font
-　　→ FD2E ﴮ ornate left parenthesis
+　　→ FD3E ﴾ ornate left parenthesis
 	U+E9C4
 　RIGHT PARENTHESIS WITH MIDDLE RING
 　　http://www.pentzlin.com/EPA_Proposal_Draft1.pdf
 　　http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4079.pdf
 　　https://unicode.org/L2/L2011/11040-epa-proposal.pdf
 　　•F9F2 in nishiki-teki font
+　　→ FD3F ﴿ ornate right parenthesis
 	U+E9C5
 　LEFT BREATH MARK
 　　https://unicode.org/L2/L2019/19073-breath-marks.pdf
