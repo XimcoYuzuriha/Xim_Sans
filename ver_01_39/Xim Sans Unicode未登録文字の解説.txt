@@ -617,6 +617,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　https://www.internationalphoneticassociation.org/sites/default/files/extIPA_2016.pdf
 　　•sublaminal lower-alveolar percussive (tongue slap) in ExtIPA
 　　•E9B4 in nishiki-teki font
+　　→ 00A1 ¡ inverted exclamation mark
 	U+E069
 　CIRCLED LATIN CAPITAL LETTER REVERSED K
 　　•unidentifiable or indeterminate click sounds in ExtIPA
@@ -641,6 +642,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E06E
 　LATIN CAPITAL LETTER GHA WITH STROKE THROUGH DESCENDER
 　　https://unicode.org/L2/L2011/11360-soviet-latin.pdf
+　　→ 01A2 Ƣ latin capital letter oi
 	U+E06F
 　LATIN SMALL LETTER GHA WITH STROKE THROUGH DESCENDER
 　　https://unicode.org/L2/L2011/11360-soviet-latin.pdf
@@ -988,7 +990,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E0BC
 　LATIN SMALL LETTER N WITH ZIGZAG ABOVE
 　　http://www.unicode.org/L2/L2017/17342-n4902-medieval-cornish.pdf
-　　≡ 006E n  035B ͛
+　　≡ 006E n  035B ͛(n͛)
 	U+E0BD
 　LATIN SMALL LETTER R WITH OVERCURL VARIANT FORM
 　　http://www.unicode.org/L2/L2017/17342-n4902-medieval-cornish.pdf
@@ -997,7 +999,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E0BE
 　LATIN SMALL LETTER R WITH ZIGZAG ABOVE
 　　http://www.unicode.org/L2/L2017/17342-n4902-medieval-cornish.pdf
-　　≡ 0072 r  035B 
+　　≡ 0072 r  035B (r͛)
 ##	Latin extension for Palaeotype
 	U+E0BF
 　LATIN CAPITAL LETTER TURNED OE
@@ -1157,9 +1159,11 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+EOF1
 　MODIFIER LETTER CAPITAL S
 　　https://unicode.org/L2/L2021/21089-mod-capital-letters.pdf
+　　≈ <super> 0053 S
 	U+EOF2
 　MODIFIER LETTER CAPITAL X
 　　https://unicode.org/L2/L2021/21089-mod-capital-letters.pdf
+　　≈ <super> 0058 X
 	U+EOF3
 　LATIN SUPERSCRIPT CAPITAL LETTER Z
 　　≈ <super> 005A Z
@@ -1686,6 +1690,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E178
 　IMPERIAL KOPEK SIGN
 　　https://unicode.org/L2/L2011/11273r-russian-currency.pdf
+　　≈ 043A к 043E о
 　　•used in Russia from the 18th to 19th century
 ◌	U+E179
 　COMBINING MUSCOVY RUBLE SIGN
@@ -1698,9 +1703,11 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　•used in Russia from the 17th to 18th century
 	U+E17B
 　MODERN KRONE SIGN
+　　≈ 004B K 0072 r
 	U+E17C
 　POLISH ZLOTY SIGN
 　　https://unicode.org/L2/L2022/22092-polish-złoty.pdf
+　　≈ 007A z 0142 ł
 
 #	Arrows Extended Private-1
 ##	Compass arrows for indicating direction
@@ -2865,6 +2872,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E327
 　DALTON ATOMIC SYMBOL MAGNESIUM VARIANT FORM
 　　https://www.alchemywebsite.com/dalton_s.html
+　　•Mg
 	U+E328
 　DALTON ATOMIC SYMBOL ALUMINIUM
 　　https://www.alchemywebsite.com/dalton_s.html
@@ -2892,6 +2900,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E32E
 　DALTON ATOMIC SYMBOL CALCIUM VARIANT FORM
 　　https://www.alchemywebsite.com/dalton_s.html
+　　•Ca
 	U+E32F
 　DALTON ATOMIC SYMBOL TITANIUM
 　　https://www.alchemywebsite.com/dalton_s.html
@@ -2923,7 +2932,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E336
 　DALTON ATOMIC SYMBOL ZINC
 　　https://www.alchemywebsite.com/dalton_s.html
-　　•Zn (order is mistaken)
+　　•Zn
 	U+E337
 　DALTON ATOMIC SYMBOL BARIUM
 　　https://www.alchemywebsite.com/dalton_s.html
@@ -2948,6 +2957,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E33C
 　DALTON ATOMIC SYMBOL MERCURY VARIANT FORM
 　　https://www.alchemywebsite.com/dalton_s.html
+　　•Hg
 
 #	Musical Symbols Private-1
 	U+E33D
@@ -2965,18 +2975,22 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　MUSICAL SYMBOL HALF SHARP
 　　•half of sharp
 　　•FD1F8 in nishiki-teki font
+　　→ 1D131 𝄱 musical symbol sharp down
 	U+E341
 　MUSICAL SYMBOL REVERSED FLAT
 　　•half of flat
 　　•FD1F7 in nishiki-teki font
+　　→ 1D12C 𝄬 musical symbol flat up
 	U+E342
 　MUSICAL SYMBOL SESQUIPLE SHARP
 　　•three-quarters of sharp
 　　•FD1FB in nishiki-teki font
+　　→ 1D130 𝄰 musical symbol sharp up
 	U+E343
 　MUSICAL SYMBOL REVERSED FLAT AND FLAT
 　　•three-quarters of flat
 　　•FD1F6 in nishiki-teki font
+　　→ 1D12D 𝄭 musical symbol flat down
 	U+E344
 　MUSICAL SYMBOL REVERSED FLAT AND FLAT DOWN
 　　•seven-eighths of flat
@@ -4004,51 +4018,61 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　SQUARED DIGIT ZERO
 　　•10764 in Adobe-Japan1-6
 　　•F06E0 in nishiki-teki font
+　　≡ 0030 0 20DE ⃤ (0⃞)
 	U+E491
 　SQUARED DIGIT ONE
 　　•10766 in Adobe-Japan1-6
 　　•8414 in Adobe-Korea1-2
 　　•F06E1 in nishiki-teki font
+　　≡ 0031 1 20DE ⃤ (1⃞)
 	U+E492
 　SQUARED DIGIT TWO
 　　•10768 in Adobe-Japan1-6
 　　•8415 in Adobe-Korea1-2
 　　•F06E2 in nishiki-teki font
+　　≡ 0032 2 20DE ⃤ (2⃞)
 	U+E493
 　SQUARED DIGIT THREE
 　　•10770 in Adobe-Japan1-6
 　　•8416 in Adobe-Korea1-2
 　　•F06E3 in nishiki-teki font
+　　≡ 0033 3 20DE ⃤ (3⃞)
 	U+E494
 　SQUARED DIGIT FOUR
 　　•10772 in Adobe-Japan1-6
 　　•8417 in Adobe-Korea1-2
 　　•F06E4 in nishiki-teki font
+　　≡ 0034 4 20DE ⃤ (4⃞)
 	U+E495
 　SQUARED DIGIT FIVE
 　　•10774 in Adobe-Japan1-6
 　　•8418 in Adobe-Korea1-2
 　　•F06E5 in nishiki-teki font
+　　≡ 0035 5 20DE ⃤ (5⃞)
 	U+E496
 　SQUARED DIGIT SIX
 　　•10776 in Adobe-Japan1-6
 　　•8419 in Adobe-Korea1-2
 　　•F06E6 in nishiki-teki font
+　　≡ 0036 6 20DE ⃤ (6⃞)
 	U+E497
 　SQUARED DIGIT SEVEN
 　　•10778 in Adobe-Japan1-6
 　　•8420 in Adobe-Korea1-2
 　　•F06E7 in nishiki-teki font
+　　≡ 0037 7 20DE ⃤ (7⃞)
 	U+E498
 　SQUARED DIGIT EIGHT
 　　•10780 in Adobe-Japan1-6
 　　•8421 in Adobe-Korea1-2
 　　•F06E8 in nishiki-teki font
+　　≡ 0038 8 20DE ⃤ (8⃞)
 	U+E499
 　SQUARED DIGIT NINE
 　　•10782 in Adobe-Japan1-6
 　　•8422 in Adobe-Korea1-2
 　　•F06E9 in nishiki-teki font
+　　≡ 0039 9 20DE ⃤ (9⃞)
 	U+E49A
 　SQUARED NUMBER TEN
 　　•10784 in Adobe-Japan1-6
@@ -4165,9 +4189,11 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 ##	Enclosed punctuations
 	U+E4B6
 　CIRCLED QUESTION MARK
+　　≡ 003F ? 20DD ⃝ (?⃝)
 　　•F095F in nishiki-teki font
 	U+E4B7
 　CIRCLED EXCLAMATION MARK
+　　≡ 0021 ! 20DD ⃝ (!⃝)
 　　•parking brake
 　　•usually parenthesized ()
 ##	Miscellaneous enclosed alphanumerics
@@ -4175,9 +4201,11 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　SQUARED YEN SIGN
 　　•fee charging
 　　•included in DoCoMo Emoji
+　　≡ 00A5 ¥ 20DE ⃤ (¥⃞)
 	U+E4BE
 　CIRCLED LATIN CAPITAL LETTER THORN
 　　http://std.dkuug.dk/jtc1/sc2/wg2/docs/n2655.pdf
+　　≡ 00DE Þ 20DD ⃝ (Þ⃝)
 　　•used in Icelandic dictionary for þjóðtrú("folk religion" in Islandic)
 	U+E4BF
 　SQUARED HIT WITH EXCLAMATION MARK
@@ -4187,68 +4215,89 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E4C0
 　SMALL CJK UNIFIED IDEOGRAPH-6C0F
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 6C0F 氏
 　　•E290 in nishiki-teki font
 	U+E4C1
 　SMALL CJK UNIFIED IDEOGRAPH-526F
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 526F 副
 　　•E291 in nishiki-teki font
 	U+E4C2
 　SMALL CJK UNIFIED IDEOGRAPH-5143
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 5143 元
 　　•E292 in nishiki-teki font
 	U+E4C3
 　SMALL CJK UNIFIED IDEOGRAPH-6545
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 6545 故
 　　•E293 in nishiki-teki font
 	U+E4C4
 　SMALL CJK UNIFIED IDEOGRAPH-524D
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 524D 前
 　　•E294 in nishiki-teki font
 	U+E4C5
 　SMALL CJK UNIFIED IDEOGRAPH-65B0
 　　http://www.arib.or.jp/english/html/overview/doc/6-STD-B24v6_2-1p3-E1.pdf
+　　≈ <small> 65B0 新
 　　•E295 in nishiki-teki font
 	U+E4C6
 　SMALL CJK UNIFIED IDEOGRAPH-5E74
+　　≈ <small> 5E74 年
 	U+E4C7
 　SMALL CJK UNIFIED IDEOGRAPH-6708
+　　≈ <small> 6708 月
 	U+E4C8
 　SMALL CJK UNIFIED IDEOGRAPH-65E5
+　　≈ <small> 65E5 日
 	U+E4C9
 　SMALL CJK UNIFIED IDEOGRAPH-5186
+　　≈ <small> 5186 円
 	U+E4CA
 　SMALL CJK UNIFIED IDEOGRAPH-5F15
+　　≈ <small> 5F15 引
 	U+E4CB
 　SMALL CJK UNIFIED IDEOGRAPH-820C
+　　≈ <small> 820C 舌
 　　•used in The Secret History of the Mongols
 	U+E4CC
 　SMALL CJK UNIFIED IDEOGRAPH-5152
 　　http://www.unicode.org/L2/L2016/16109-n4720-ideo-var-seq.pdf
+　　≈ <small> 5152 兒
 　　•F0CEF in nishiki-teki font
 	U+E4CD
 　SMALL CJK UNIFIED IDEOGRAPH-513F
 　　http://www.unicode.org/L2/L2016/16109-n4720-ideo-var-seq.pdf
+　　≈ <small> 513F 儿
 　　•F0CEE in nishiki-teki font
 	U+E4CE
 　SMALL CJK UNIFIED IDEOGRAPH-535C
 　　•represents 182A ᠪ at end of word in The Secret History of the Mongols
+　　≈ <small> 535C 卜
 	U+E4CF
 　SMALL CJK UNIFIED IDEOGRAPH-514B
 　　•represents 182C ᠬ at end of word in The Secret History of the Mongols
+　　≈ <small> 514B 克
 	U+E4D0
 　SMALL CJK UNIFIED IDEOGRAPH-9ED1
 　　•represents 182D ᠭ at end of word in The Secret History of the Mongols
+　　≈ <small> 9ED1 黑
 	U+E4D1
 　SMALL CJK UNIFIED IDEOGRAPH-52D2
 　　•represents 182F ᠯ at end of word in The Secret History of the Mongols
+　　≈ <small> 52D2 勒
 	U+E4D2
 　SMALL CJK UNIFIED IDEOGRAPH-60D5
 　　•represents 1832 ᠲ or 1833 ᠳ at end of word in The Secret History of the Mongols
+　　≈ <small> 60D5 惕
 	U+E4D3
 　SMALL CJK UNIFIED IDEOGRAPH-4E2D
 　　•used in The Secret History of the Mongols
+　　≈ <small> 4E2D 中
 	U+E4D4
 　SMALL CJK UNIFIED IDEOGRAPH-4E01
+　　≈ <small> 4E01 丁
 
 #	Superscript Musical Symbols
 ##	Symbols for Helmholtz-Ellis JI pitch notation
@@ -4267,8 +4316,10 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 ##	Superscript musical symbols for chord names
 	U+E4D9
 　SUPERSCRIPT MUSICAL SYMBOL FLAT
+　　≈ <super> 266D ♭ music flat sign
 	U+E4DA
 　SUPERSCRIPT MUSICAL SYMBOL SHARP
+　　≈ <super> 266F ♯ music sharp sign
 	U+E4DB
 　SUPERSCRIPT MUSICAL SYMBOL REVERSED FLAT
 	U+E4DC
@@ -4283,22 +4334,27 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E4E1
 　HIRAGANA LETTER SMALL SU
 　　http://www.unicode.org/L2/L2016/16354-kana-small-ltr.pdf
+　　≈ <small> 3059 す
 　　•F7C05 in nishiki-teki font
 	U+E4E2
 　HIRAGANA LETTER SMALL TA
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 305F た
 　　•F7C08 in nishiki-teki font
 	U+E4E3
 　HIRAGANA LETTER SMALL NA
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 306A な
 　　•F7C0C in nishiki-teki font
 	U+E4E4
 　HIRAGANA LETTER SMALL MU
 　　http://www.unicode.org/L2/L2016/16354-kana-small-ltr.pdf
+　　≈ <small> 3080 む
 　　•F7C18 in nishiki-teki font
 ##	Katakana small variants
 	U+E4E9
 　KATAKANA LETTER SMALL VU
+　　≈ <small> 30F4 ヴ
 　　•/v/
 	U+E4EA
 　KATAKANA LETTER SMALL U WITH LINE ABOVE
@@ -4310,69 +4366,86 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　•F438 in nishiki-teki font
 	U+E4EC
 　KATAKANA LETTER SMALL GA
+　　≈ <small> 30AC ガ
 　　•F470 in nishiki-teki font
 	U+E4ED
 　KATAKANA LETTER SMALL KI
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
-　　•drizzle in Japanese wheather symbol
+　　≈ <small> 30AD キ
+　　•drizzle in Japanese wheather symbol (e.g.  indicates drizzle)
 　　•/kʲ/ or /c/
 　　•F7C24 in nishiki-teki font
 	U+E4EE
 　KATAKANA LETTER SMALL GU
+　　≈ <small> 30B0 グ
 　　•/ɡ/
 	U+E4F0
 　KATAKANA LETTER SMALL ZI
+　　≈ <small> 30B8 ジ
 　　•/ʒ/
 	U+E4F1
 　KATAKANA LETTER SMALL ZU
+　　≈ <small> 30BA ズ
 　　•/z/
 	U+E4F2
 　KATAKANA LETTER SMALL SE
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 30BB セ
 　　•F7C27 in nishiki-teki font
 	U+E4F3
 　KATAKANA LETTER SMALL TI
 　　http://www.unicode.org/L2/L2016/16354-kana-small-ltr.pdf
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 30C1 チ
 　　•/t͡ʃ/ or /t͡ɕ/
 　　•F7C2A in nishiki-teki font
 	U+E4F4
 　KATAKANA LETTER SMALL DI
+　　≈ <small> 30C2 ヂ
 　　•/d͡ʒ/ or /d͡ʑ/
 	U+E4F5
 　KATAKANA LETTER SMALL DU
+　　≈ <small> 30C5 ヅ
 　　•/d͡z/
 	U+E4F6
 　KATAKANA LETTER SMALL TE
 　　http://www.unicode.org/L2/L2016/16354-kana-small-ltr.pdf
+　　≈ <small> 30C6 テ
 　　•/tʲ/
 　　•F7C2B in nishiki-teki font
 	U+E4F7
 　KATAKANA LETTER SMALL DE
+　　≈ <small> 30C7 デ
 　　•/dʲ/
 	U+E4F8
 　KATAKANA LETTER SMALL DO
+　　≈ <small> 30C9 ド
 　　•/d/
 	U+E4F9
 　KATAKANA LETTER SMALL NI
+　　≈ <small> 30CB ニ
 　　•shower in Japanese wheather symbol
 　　•/nʲ/ or /ɲ/
 　　•F7C2D in nishiki-teki font
 	U+E4FA
 　KATAKANA LETTER SMALL NO
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 30CE ノ
 　　•F7C2F in nishiki-teki font
 	U+E4FB
 　KATAKANA LETTER SMALL BU
+　　≈ <small> 30D6 ブ
 　　•/b/
 	U+E4FC
 　KATAKANA LETTER SMALL PU
+　　≈ <small> 30D7 プ
 　　= katakana letter ainu p
 　　•/p/
 　　•F40D in nishiki-teki font
 	U+E4FC
 　KATAKANA LETTER SMALL MA
 　　http://www.unicode.org/L2/L2017/17091-sc2-n4523-small-kana.pdf
+　　≈ <small> 30DE マ
 　　•F7C30 in nishiki-teki font
 	U+E4FD
 　KATAKANA LETTER SMALL RU WITH SEMI-VOICED SOUND MARK
@@ -4408,18 +4481,27 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　http://mahoroba3.cocolog-nifty.com/blog/2021/05/post-dc0daa.html
 	U+E507
 　HORIZONTAL KANA REPEAT MARK
+　　≈ <horizontal> 3031 〱 vertical kana repeat mark
 	U+E508
 　HORIZONTAL KANA REPEAT WITH VOICED SOUNDMARK
+　　≈ <horizontal> 3032 〲 vertical kana repeat with voiced sound mark
 	U+E509
 　HORIZONTAL KANA REPEAT MARK UPPER HALF
+　　≈ <horizontal> 3033 〳 vertical kana repeat mark upper half
 	U+E50A
 　HORIZONTAL KANA REPEAT MARK LOWER HALF
+　　≈ <horizontal> 3035 〵 vertical kana repeat mark lower half
 	U+E50B
 　HORIZONTAL KANA REPEAT MARK LOWER HALF WITH VOICED SOUNDMARK UPPER HALF
+　　≈ <horizontal> 3034 〴 vertical kana repeat with voiced sound mark upper half
 	U+E50C
 　HORIZONTAL KANA REPEAT MARK LOWER HALF OVER VERTICAL KANA REPEAT MARK UPPER HALF
+　　≈ <horizontal> 3035 〵 3033 〳
+　　•vertical variation is EC7D 
 	U+E50D
 　HORIZONTAL KANA REPEAT MARK WITH VOICED SOUND MARK LOWER HALF OVER VERTICAL KANA REPEAT MARK UPPER HALF
+　　≈ <horizontal> 3035 〵 3034 〴
+　　•vertical variation is EC7E 
 	U+E50E
 　HORIZONTAL IDEOGRAPHIC PARAGRAPH SIGN
 　　https://dl.ndl.go.jp/info:ndljp/pid/2951987
@@ -4463,12 +4545,14 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　•/ŋ/
 	U+E519
 　KATAKANA LETTER SMALL GI
+　　≈ <small> 30AE ギ
 　　•/ɡʲ/ or /ɟ/
 	U+E51A
 　KATAKANA LETTER SMALL KI WITH SEMI-VOICED SOUND MARK
 　　•/ŋʲ/
 	U+E51B
 　KATAKANA LETTER SMALL MI
+　　≈ <small> 30DF ミ
 　　•/mʲ/
 	U+E51C
 　KATAKANA LETTER SMALL RI WITH SEMI-VOICED SOUND MARK
@@ -4498,6 +4582,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E53C
 　HIRAGANA LIGATURE KASIKO
 　　https://www.benricho.org/kana/wa.html
+　　≈ <vertical> 1B019 𛀙 3057 し 3053 こ
 	U+E53D
 　HIRAGANA LIGATURE MAIRASESORO
 　　https://www.benricho.org/kana/wa.html
@@ -4515,114 +4600,140 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E542
 　HIRAGANA LETTER OKINAWAN KWA
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 304F く 200D 308E ゎ (く‍ゎ)
 　　•F454 in nishiki-teki font
 	U+E543
 　HIRAGANA LETTER OKINAWAN GWA
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3050 ぐ 200D 308E ゎ (ぐ‍ゎ)
 　　•F455 in nishiki-teki font
 	U+E544
 　HIRAGANA LETTER OKINAWAN KWI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 304F く 200D 3043 ぃ (く‍ぃ)
 　　•F456 in nishiki-teki font
 	U+E545
 　HIRAGANA LETTER OKINAWAN GWI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3050 ぐ 200D 3043 ぃ (ぐ‍ぃ)
 　　•F457 in nishiki-teki font
 	U+E546
 　HIRAGANA LETTER OKINAWAN KWE
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 304F く 200D 3047 ぇ (く‍ぇ)
 　　•F458 in nishiki-teki font
 	U+E547
 　HIRAGANA LETTER OKINAWAN GWE
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3050 ぐ 200D 3047 ぇ (ぐ‍ぇ)
 　　•F459 in nishiki-teki font
 	U+E548
 　HIRAGANA LETTER OKINAWAN SI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3059 す 200D 3043 ぃ (す‍ぃ)
 　　•F467 in nishiki-teki font
 	U+E549
 　HIRAGANA LETTER OKINAWAN ZI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 305A ず 200D 3043 ぃ (ず‍ぃ)
 　　•F468 in nishiki-teki font
 	U+E54A
 　HIRAGANA LETTER OKINAWAN TSI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3064 つ 200D 3043 ぃ (つ‍ぃ)
 　　•F469 in nishiki-teki font
 	U+E54B
 　HIRAGANA LETTER OKINAWAN DZI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3065 づ 200D 3043 ぃ (づ‍ぃ)
 　　•F46A in nishiki-teki font
 	U+E54C
 　HIRAGANA LETTER OKINAWAN TI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3066 て 200D 3043 ぃ (て‍ぃ)
 　　•F452 in nishiki-teki font
 	U+E54D
 　HIRAGANA LETTER OKINAWAN DI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3067 で 200D 3043 ぃ (で‍ぃ)
 　　•F453 in nishiki-teki font
 	U+E54E
 　HIRAGANA LETTER OKINAWAN TU
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3068 と 200D 3045 ぅ (と‍ぅ)
 　　•F450 in nishiki-teki font
 	U+E54F
 　HIRAGANA LETTER OKINAWAN DU
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3069 ど 200D 3045 ぅ (ど‍ぅ)
 　　•F451 in nishiki-teki font
 	U+E550
 　HIRAGANA LETTER OKINAWAN HWA
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3075 ふ 200D 308E ゎ (ふ‍ゎ)
 　　•F45A in nishiki-teki font
 	U+E551
 　HIRAGANA LETTER OKINAWAN HWI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3075 ふ 200D 3043 ぃ (ふ‍ぃ)
 　　•F45B in nishiki-teki font
 	U+E552
 　HIRAGANA LETTER OKINAWAN HWE
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3075 ふ 200D 3047 ぇ (ふ‍ぇ)
 　　•F45C in nishiki-teki font
 	U+E553
 　HIRAGANA LETTER OKINAWAN YA
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3044 い 200D 3083 ゃ (い‍ゃ)
 　　•/ʔja/
 　　•F45D in nishiki-teki font
 	U+E554
 　HIRAGANA LETTER OKINAWAN YU
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3044 い 200D 3085 ゅ (い‍ゅ)
 　　•/ʔju/
 　　•F45E in nishiki-teki font
 	U+E555
 　HIRAGANA LETTER OKINAWAN YO
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3044 い 200D 3087 ょ (い‍ょ)
 　　•/ʔjo/
 　　•F45F in nishiki-teki font
 	U+E556
 　HIRAGANA LETTER OKINAWAN WA
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3046 う 200D 308E ゎ (う‍ゎ)
 　　•/ʔwa/
 　　•F460 in nishiki-teki font
 	U+E557
 　HIRAGANA LETTER OKINAWAN WI
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3046 う 200D 3090 ゐ (う‍ゐ)
 　　•/ʔwi/
 　　•F461 in nishiki-teki font
 	U+E558
 　HIRAGANA LETTER OKINAWAN WE
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3046 う 200D 3091 ゑ (う‍ゑ)
 　　•/ʔwe/
 　　•F462 in nishiki-teki font
 	U+E559
 　HIRAGANA LETTER OKINAWAN WU
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3092 を 200D 3045 ぅ (を‍ぅ)
 　　•/u/; 3046 う is used for /ʔu/
 　　•F465 in nishiki-teki font
 	U+E55A
 　HIRAGANA LETTER OKINAWAN N
 　　https://www.cir-lab.org/%E6%B2%96%E7%B8%84%E6%96%87%E5%AD%97%E4%B8%80%E8%A6%A7.pdf
+　　≡ 3063 っ 200D 3063 ん (っ‍ん)
 　　•/ʔɴ/
 　　•F463 in nishiki-teki font
 ##	Hiragana letters for Kesen
 	U+E55B
 　HIRAGANA LETTER KESEN YE
+　　≡ 3044 い 200D 3047 ぇ (い‍ぇ)
 　　•F484 in nishiki-teki font
 	U+E55C
 　HIRAGANA LETTER KESEN SI
@@ -4763,6 +4874,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E59D
 　KATAKANA DIGRAPH TOKI
 　　https://unicode.org/L2/L2021/21177-n5166-sat-buddhist-sym.pdf
+　　≡ 30C8 ト 200D 30AD キ (ト‍キ)
 　　•F7CB2 in nishiki-teki font
 	U+E59E
 　KATAKANA LIGATURE TO-NARI
@@ -4776,9 +4888,11 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　•F7CB4 in nishiki-teki font
 	U+E5A1
 　KATAKANA DIGRAPH TOTE
+　　≡ 30C8 ト 200D 30C6 テ (ト‍テ)
 　　•F7CB3 in nishiki-teki font
 	U+E5A2
 　KATAKANA DIGRAPH YORI
+　　≡ 30E8 ヨ 200D 30EA リ (ヨ‍リ)
 　　•F7CB5 in nishiki-teki font
 ##	Miscellaneous Kana symbols
 	U+E5A3
@@ -5711,6 +5825,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E6C8
 　CJK UNIFIED IDEOGRAPH PRIVATE-E6C8
 　　•used in name of Japanese shinto shrine "瓺(みか)神社"
+　　→ 26F06 𦼆
 	U+E6C9
 　CJK UNIFIED IDEOGRAPH-524D SIMPLIFIED FORM
 　　→ 524D 前
@@ -5720,6 +5835,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　　→ 95E8 门
 	U+E6CB
 　CJK UNIFIED IDEOGRAPH-5287 JAPANESE SIMPLIFIED FORM
+　　•⿰虍刂
 　　→ 5287 劇
 	U+E6CC
 　INVERTED CJK UNIFIED IDEOGRAPH-99AC
@@ -5755,6 +5871,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 	U+E6D4
 　CJK UNIFIED IDEOGRAPH PRIVATE-E6D4
 　　https://www.arianalife.com/topics/gender-equality/x%E4%B9%9Fand-ta-the-gradual-rise-of-gender-neutral-pronouns-in-chinese/
+　　•⿰乂也
 　　•represents gender-neutral pronouns for third person
 	U+E6D5
 　CJK UNIFIED IDEOGRAPH-690D CHINESE VARIANT FORM
@@ -5997,155 +6114,205 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 ##	Circled Hiragana
 	U+E720
 　CIRCLED HIRAGANA A
-　　•used in karuta game
+　　≡ 3042 あ 20DD ⃝ (あ⃝)
+　　•following circled hiragana letters are used in karuta game
 　　•10365 in Adobe-Japan1-6
 	U+E721
 　CIRCLED HIRAGANA I
+　　≡ 3044 い 20DD ⃝ (い⃝)
 　　•10366 in Adobe-Japan1-6
 	U+E722
 　CIRCLED HIRAGANA U
+　　≡ 3046 う 20DD ⃝ (う⃝)
 　　•10367 in Adobe-Japan1-6
 	U+E723
 　CIRCLED HIRAGANA E
+　　≡ 3048 え 20DD ⃝ (え⃝)
 　　•10368 in Adobe-Japan1-6
 	U+E724
 　CIRCLED HIRAGANA O
+　　≡ 304A お 20DD ⃝ (お⃝)
 　　•10369 in Adobe-Japan1-6
 	U+E725
 　CIRCLED HIRAGANA KA
+　　≡ 304B か 20DD ⃝ (か⃝)
 　　•10370 in Adobe-Japan1-6
 	U+E726
 　CIRCLED HIRAGANA KI
+　　≡ 304D き 20DD ⃝ (き⃝)
 　　•10371 in Adobe-Japan1-6
 	U+E727
 　CIRCLED HIRAGANA KU
+　　≡ 304F く 20DD ⃝ (く⃝)
 　　•10372 in Adobe-Japan1-6
 	U+E728
 　CIRCLED HIRAGANA KE
+　　≡ 3051 け 20DD ⃝ (け⃝)
 　　•10373 in Adobe-Japan1-6
 	U+E729
 　CIRCLED HIRAGANA KO
+　　≡ 3053 こ 20DD ⃝ (こ⃝)
 　　•10374 in Adobe-Japan1-6
 	U+E72A
 　CIRCLED HIRAGANA SA
+　　≡ 3055 さ 20DD ⃝ (さ⃝)
 　　•10375 in Adobe-Japan1-6
 	U+E72B
 　CIRCLED HIRAGANA SI
+　　≡ 3057 し 20DD ⃝ (し⃝)
 　　•10376 in Adobe-Japan1-6
 	U+E72C
 　CIRCLED HIRAGANA SU
+　　≡ 3059 す 20DD ⃝ (す⃝)
 　　•10377 in Adobe-Japan1-6
 	U+E72D
 　CIRCLED HIRAGANA SE
+　　≡ 305B せ 20DD ⃝ (せ⃝)
 　　•10378 in Adobe-Japan1-6
 	U+E72E
 　CIRCLED HIRAGANA SO
+　　≡ 305D そ 20DD ⃝ (そ⃝)
 　　•10379 in Adobe-Japan1-6
 	U+E72F
 　CIRCLED HIRAGANA TA
+　　≡ 305F た 20DD ⃝ (た⃝)
 　　•10380 in Adobe-Japan1-6
 	U+E730
 　CIRCLED HIRAGANA TI
+　　≡ 3061 ち 20DD ⃝ (ち⃝)
 　　•10381 in Adobe-Japan1-6
 	U+E731
 　CIRCLED HIRAGANA TU
+　　≡ 3064 つ 20DD ⃝ (つ⃝)
 　　•10382 in Adobe-Japan1-6
 	U+E732
 　CIRCLED HIRAGANA TE
+　　≡ 3066 て 20DD ⃝ (て⃝)
 　　•10383 in Adobe-Japan1-6
 	U+E733
 　CIRCLED HIRAGANA TO
+　　≡ 3068 と 20DD ⃝ (と⃝)
 　　•10384 in Adobe-Japan1-6
 	U+E734
 　CIRCLED HIRAGANA NA
+　　≡ 306A な 20DD ⃝ (な⃝)
 　　•10385 in Adobe-Japan1-6
 	U+E735
 　CIRCLED HIRAGANA NI
+　　≡ 306B に 20DD ⃝ (に⃝)
 　　•10386 in Adobe-Japan1-6
 	U+E736
 　CIRCLED HIRAGANA NU
+　　≡ 306C ぬ 20DD ⃝ (ぬ⃝)
 　　•10387 in Adobe-Japan1-6
 	U+E737
 　CIRCLED HIRAGANA NE
+　　≡ 306D ね 20DD ⃝ (ね⃝)
 　　•10388 in Adobe-Japan1-6
 	U+E738
 　CIRCLED HIRAGANA NO
+　　≡ 306E の 20DD ⃝ (の⃝)
 　　•10389 in Adobe-Japan1-6
 	U+E739
 　CIRCLED HIRAGANA HA
+　　≡ 306F は 20DD ⃝ (は⃝)
 　　•10390 in Adobe-Japan1-6
 	U+E73A
 　CIRCLED HIRAGANA HI
+　　≡ 3072 ひ 20DD ⃝ (ひ⃝)
 　　•10391 in Adobe-Japan1-6
 	U+E73B
 　CIRCLED HIRAGANA HU
+　　≡ 3075 ふ 20DD ⃝ (ふ⃝)
 　　•10392 in Adobe-Japan1-6
 	U+E73C
 　CIRCLED HIRAGANA HE
+　　≡ 3078 へ 20DD ⃝ (へ⃝)
 　　•10393 in Adobe-Japan1-6
 	U+E73D
 　CIRCLED HIRAGANA HO
+　　≡ 307B ほ 20DD ⃝ (ほ⃝)
 　　•10394 in Adobe-Japan1-6
 	U+E73E
 　CIRCLED HIRAGANA MA
+　　≡ 307E ま 20DD ⃝ (ま⃝)
 　　•10395 in Adobe-Japan1-6
 	U+E73F
 　CIRCLED HIRAGANA MI
+　　≡ 307F み 20DD ⃝ (み⃝)
 　　•10396 in Adobe-Japan1-6
 	U+E740
 　CIRCLED HIRAGANA MU
+　　≡ 3080 む 20DD ⃝ (む⃝)
 　　•10397 in Adobe-Japan1-6
 	U+E741
 　CIRCLED HIRAGANA ME
+　　≡ 3081 め 20DD ⃝ (め⃝)
 　　•10398 in Adobe-Japan1-6
 	U+E742
 　CIRCLED HIRAGANA MO
+　　≡ 3082 も 20DD ⃝ (も⃝)
 　　•10399 in Adobe-Japan1-6
 	U+E743
 　CIRCLED HIRAGANA YA
+　　≡ 3084 や 20DD ⃝ (や⃝)
 　　•10400 in Adobe-Japan1-6
 	U+E744
 　CIRCLED HIRAGANA YU
+　　≡ 3086 ゆ 20DD ⃝ (ゆ⃝)
 　　•10401 in Adobe-Japan1-6
 	U+E745
 　CIRCLED HIRAGANA YO
+　　≡ 3088 よ 20DD ⃝ (よ⃝)
 　　•10402 in Adobe-Japan1-6
 	U+E746
 　CIRCLED HIRAGANA RA
+　　≡ 3089 ら 20DD ⃝ (ら⃝)
 　　•10403 in Adobe-Japan1-6
 	U+E747
 　CIRCLED HIRAGANA RI
+　　≡ 308A り 20DD ⃝ (り⃝)
 　　•10404 in Adobe-Japan1-6
 	U+E748
 　CIRCLED HIRAGANA RU
+　　≡ 308B る 20DD ⃝ (る⃝)
 　　•10405 in Adobe-Japan1-6
 	U+E749
 　CIRCLED HIRAGANA RE
+　　≡ 308C れ 20DD ⃝ (れ⃝)
 　　•10406 in Adobe-Japan1-6
 	U+E74A
 　CIRCLED HIRAGANA RO
+　　≡ 308D ろ 20DD ⃝ (ろ⃝)
 　　•10407 in Adobe-Japan1-6
 	U+E74B
 　CIRCLED HIRAGANA WA
+　　≡ 308F わ 20DD ⃝ (わ⃝)
 　　•10408 in Adobe-Japan1-6
 	U+E74C
 　CIRCLED HIRAGANA WI
+　　≡ 3090 ゐ 20DD ⃝ (ゐ⃝)
 　　•10409 in Adobe-Japan1-6
 	U+E74D
 　CIRCLED HIRAGANA WE
+　　≡ 3091 ゑ 20DD ⃝ (ゑ⃝)
 　　•10410 in Adobe-Japan1-6
 	U+E74E
 　CIRCLED HIRAGANA WO
+　　≡ 3092 を 20DD ⃝ (を⃝)
 　　•10411 in Adobe-Japan1-6
 	U+E74F
 　CIRCLED HIRAGANA N
+　　≡ 3093 ん 20DD ⃝ (ん⃝)
 　　•10412 in Adobe-Japan1-6
 ##	Circled Katakana
 	U+E750
 　CIRCLED KATAKANA BI
+　　≡ 30D3 ビ 20DD ⃝ (ビ⃝)
 　　•represents 貧乏(poor)
 	U+E751
 　CIRCLED KATAKANA N
+　　≡ 30F3 ン 20DD ⃝ (ン⃝)
 　　•10460 in Adobe-Japan1-6
 ##	Parenthesized Latin letters for ARIB
 	U+E752
