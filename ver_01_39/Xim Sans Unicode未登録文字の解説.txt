@@ -6335,7 +6335,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 ◌	U+E79C
 　LIHUUN COMBINING MIDDLE DOT
 　　•vowel-variation sign
-	U+E79D
+	U+E79E
 　LIHUUN FULL STOP
 
 #	Lameletu Asana
