@@ -8359,7 +8359,8 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　LATIN SMALL LETTER SUTTERLIN SHARP S
 ##	Ligature for TEX and LATEX
 	U+E9AF
-　LATIN LIGATURE CAPITAL XETEX
+　LATIN LIGATURE CAPITAL XE
+　　•used for XETEX (), XELATX ()
 ##	Medieval punctuations
 	U+E9B0
 　PUNCTUS FLEXUS MARK
@@ -8524,6 +8525,7 @@ Xim Sansにおいて私用領域などに存在しているUnicode未登録文�
 　LATIN LIGATURE CAPITAL LATEX
 	U+E9DD
 　LATIN LIGATURE CAPITAL BIB
+　　•used for BIBTEX ()
 ##	Subscripts
 	U+E9DE
 　LATIN SUBSCRIPT SMALL LETTER C
